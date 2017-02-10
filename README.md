@@ -26,3 +26,5 @@ Enjoy Your New Bot!
 ## Run
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 
+-----------------------
+* [Amir](https://t.me/oOo_2017_oOo) - telegram
